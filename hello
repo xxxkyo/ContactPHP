@@ -9,7 +9,7 @@
 <span>Please fill all the texts in the fields.</span>
 </h1>
 <label>
-<span>Your Name :</span>
+<span>Your Nameaa :</span>
 <input id="name" type="text" name="name" placeholder="Your Full Name" />
 </label>
 <label>
