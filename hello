@@ -22,7 +22,7 @@
 <span>Message :テストの確認123456</span>
 <span>Message :テストの確認123456park</span>
 <span>Message :テストの確認command</span>
-<span>Message :テストの確認command1</span>
+<span>Message :テストの確認command3</span>
 <textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
 </label>
 <label>
