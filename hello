@@ -22,8 +22,13 @@
 <span>Message :テストの確認123456</span>
 <span>Message :テストの確認123456park</span>
 <span>Message :テストの確認command</span>
+<<<<<<< HEAD
 <span>Message :テストの確認command4</span>
 <span>Message :テストの確認command5</span>
+=======
+<span>Message :テストの確認command3</span>
+<span>Message :テストの確認command5</span>
+>>>>>>> branch 'master' of https://github.com/xxxkyo/ContactPHP.git
 <textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
 </label>
 <label>
